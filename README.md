@@ -11,7 +11,7 @@ The objective of the project is to:
 3. **ESPI_analyse sample** - contains same processing as for ESPI analyse notebook, but for a limited balanced sample of 1000 items with 50% of y=1 and 50% of y=0. 
 
 ## The data used in the project includes:
-1. **ESPI Reports** collected from GPW website: https://www.gpw.pl,
+1. **ESPI Reports** collected from GPW website: https://www.gpw.pl/komunikaty,
 2. **GPW Stock quotes** collected from stooq website: https://static.stooq.pl/db/h/d_pl_txt.zip,
 3. **Mapping table**: map_symbol-name.csv
 
